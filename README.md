@@ -42,7 +42,7 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Tutte le stanze in grafico a linea
 * *x = tempo, y = temperatura °C*
 
-![Graph](/grafici/Temperatura%20°C%20-%20daily%20running%20average.jpg)
+![Graph](/grafici/Temperatura_daily_running_average.jpg)
 
 ### Temperatura giornaliera delle stanze
 * Media mobile 1 giorno
@@ -50,7 +50,7 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Messa a confronto con la temperatura media di tutte le stanze
 * *x = tempo, y = temperatura °C*
 
-![Graph](/grafici/Andamento%20temperatura%20media%20giornaliera%20°C.jpg)
+![Graph](grafici/Andamento_temperatura_media_giornaliera.jpg)
 
 ### Percentuale di umidità giornaliera delle stanze
 * Media mobile 1 giorno
@@ -58,30 +58,30 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Messa a confronto con la percentuali medie di tutte le stanze
 * *x = tempo, y = umidità %*
 
-![Graph](/grafici/Andamento%20della%20percentuale%20di%20umidità%20media%20giornaliera.jpg)
+![Graph](grafici/Andamento_percentuale_umidità_media_giornaliera.jpg)
 
 ### Differenza tra interno ed esterno nella variabilità delle temperature ogni 12 ore
 * Media mobile 1 ora / Media mobile 12 ore
 * Interno (soggiorno), esterno (balcone est)
 * *x = tempo, y = percentuale di variazione*
 
-![Graph](/grafici/Percentuale%20variazione%20della%20media%20oraria%20rispetto%20a%20media%20ogni%2012%20ore.jpg)
+![Graph](grafici/Percentuale_variazione_media_oraria_rispetto_media_12_ore.jpg)
 
 ### Andamento temperature ogni 12 ore, interno ed esterno
 * Media mobile 12 ore
 * Interno (soggiorno), esterno (balcone est)
 * *x = tempo, y = temperatura °C*
 
-![Graph](/grafici/Contronto%20media%20ogni%2012%20ore%20Soggiorno%20e%20Balcone%20est.jpg)
+![Graph](grafici/Contronto_media_12 ore_Soggiorno_Balcone_est.jpg)
 
 ### Andamento temperature stanza bagno
 * Media mobile 24 ore
 * Media mobile 1 ora
 * *x = tempo, y = temperatura °C*
 
-![Graph](/grafici/Andamento%20temperatura%20bagno.jpg)
+![Graph](grafici/Andamento_temperatura_bagno.jpg)
 
 ### Calendar heatmap
 Con [Tableau](https://public.tableau.com/views/sensor-project/TempCdashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) ho impostato una calendar heatmap delle varie stanze per vedere la distribuzione delle temperature medie nelle varie stanze durante l'anno.
 
-![Heatpmap](/grafici/Temperature%20°C%20calendar%20heatmap.png)
+![Heatpmap](grafici/Temperature_calendar_heatmap.png)
