@@ -65,21 +65,21 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Interno (soggiorno), esterno (balcone est)
 * *x = tempo, y = percentuale di variazione*
 
-![Graph](grafici/Percentuale_variazione_media_oraria_rispetto_media_12_ore.jpg)
+![Graph](/grafici/Percentuale_variazione_media_oraria_rispetto_media_12_ore.jpg)
 
 ### Andamento temperature ogni 12 ore, interno ed esterno
 * Media mobile 12 ore
 * Interno (soggiorno), esterno (balcone est)
 * *x = tempo, y = temperatura °C*
 
-![Graph](grafici/Contronto_media_12_ore_Soggiorno_Balcone_est.jpg)
+![Graph](/grafici/Contronto_media_12 ore_Soggiorno_Balcone_est.jpg)
 
 ### Andamento temperature stanza bagno
 * Media mobile 24 ore
 * Media mobile 1 ora
 * *x = tempo, y = temperatura °C*
 
-![Graph](grafici/Andamento_temperatura_bagno.jpg)
+![Graph](/grafici/Andamento_temperatura_bagno.jpg)
 
 ### Calendar heatmap
 Con [Tableau](https://public.tableau.com/views/sensor-project/TempCdashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) ho impostato una calendar heatmap delle varie stanze per vedere la distribuzione delle temperature medie nelle varie stanze durante l'anno.
