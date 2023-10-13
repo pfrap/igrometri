@@ -50,7 +50,7 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Messa a confronto con la temperatura media di tutte le stanze
 * *x = tempo, y = temperatura °C*
 
-**Osservazione**: non ha troppo senso mettere a media l'esterno con l'interno, però risulta evidente che i balconi sono quelli che si distaccano di più.
+**Osservazione**: non ha troppo senso mettere a media l'esterno con l'interno, però risulta evidente che i balconi sono quelli che si distaccano di più dalla media.
 
 ![Graph](/grafici/Andamento_temperatura_media_giornaliera.jpg)
 
