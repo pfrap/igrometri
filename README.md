@@ -72,7 +72,7 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Interno (soggiorno), esterno (balcone est)
 * *x = tempo, y = temperatura °C*
 
-![Graph](/grafici/Contronto_media_12 ore_Soggiorno_Balcone_est.jpg)
+![Graph](/grafici/Confronto_Soggiorno_Balcone_est.jpg)
 
 ### Andamento temperature stanza bagno
 * Media mobile 24 ore
