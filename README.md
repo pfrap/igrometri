@@ -28,7 +28,7 @@ L'app forniva appunto una scomodissima funzione di export in csv che potevi poi 
 * Ho importato i csv su dataframe Pandas.
 * Ho unito i dataframe delle stesse stanze tra di loro tramite *merge*.
 * Ho modificato i dtypes per avere.  
-    * Temperatura: float  
+    * Temperatura: float64 
     * Umidità: float64
     * Data: datetime64[ns]
 * Matplotlib per plottare i dati
@@ -48,7 +48,8 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Media mobile 1 giorno
 * Tutte le stanze in grafici multipli
 * Messa a confronto con la temperatura media di tutte le stanze
-* *x = tempo, y = temperatura °C*  
+* *x = tempo, y = temperatura °C*
+
 **Osservazione**: non ha troppo senso mettere a media l'esterno con l'interno, però risulta evidente che i balconi sono quelli che si distaccano di più.
 
 ![Graph](/grafici/Andamento_temperatura_media_giornaliera.jpg)
@@ -64,7 +65,8 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 ### Differenza tra interno ed esterno nella variabilità delle temperature ogni 12 ore
 * Media mobile 1 ora / Media mobile 12 ore
 * Interno (soggiorno), esterno (balcone est)
-* *x = tempo, y = percentuale di variazione*  
+* *x = tempo, y = percentuale di variazione*
+
 **Osservazione**: è ovvio, ma cmq interessante visualizzare come l'escursione di temperatura sia maggiore all'esterno rispetto che all'interno.
 
 ![Graph](/grafici/Percentuale_variazione_media_oraria_rispetto_media_12_ore.jpg)
