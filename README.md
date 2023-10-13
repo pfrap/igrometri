@@ -50,7 +50,7 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Messa a confronto con la temperatura media di tutte le stanze
 * *x = tempo, y = temperatura °C*
 
-![Graph](grafici/Andamento_temperatura_media_giornaliera.jpg)
+![Graph](/grafici/Andamento_temperatura_media_giornaliera.jpg)
 
 ### Percentuale di umidità giornaliera delle stanze
 * Media mobile 1 giorno
@@ -58,7 +58,7 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Messa a confronto con la percentuali medie di tutte le stanze
 * *x = tempo, y = umidità %*
 
-![Graph](grafici/Andamento_percentuale_umidità_media_giornaliera.jpg)
+![Graph](/grafici/Andamento_percentuale_umidita_media_giornaliera.jpg)
 
 ### Differenza tra interno ed esterno nella variabilità delle temperature ogni 12 ore
 * Media mobile 1 ora / Media mobile 12 ore
@@ -72,7 +72,7 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Interno (soggiorno), esterno (balcone est)
 * *x = tempo, y = temperatura °C*
 
-![Graph](grafici/Contronto_media_12 ore_Soggiorno_Balcone_est.jpg)
+![Graph](grafici/Contronto_media_12_ore_Soggiorno_Balcone_est.jpg)
 
 ### Andamento temperature stanza bagno
 * Media mobile 24 ore
