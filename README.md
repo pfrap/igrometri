@@ -49,6 +49,7 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Tutte le stanze in grafici multipli
 * Messa a confronto con la temperatura media di tutte le stanze
 * *x = tempo, y = temperatura °C*
+**Osservazione**: non ha troppo senso mettere a media l'esterno con l'interno, però risulta evidente che i balconi sono quelli che si distaccano di più.
 
 ![Graph](/grafici/Andamento_temperatura_media_giornaliera.jpg)
 
@@ -64,6 +65,7 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 * Media mobile 1 ora / Media mobile 12 ore
 * Interno (soggiorno), esterno (balcone est)
 * *x = tempo, y = percentuale di variazione*
+**Osservazione**: è ovvio, ma cmq interessante visualizzare come l'escursione di temperatura sia maggiore all'esterno rispetto che all'interno.
 
 ![Graph](/grafici/Percentuale_variazione_media_oraria_rispetto_media_12_ore.jpg)
 
