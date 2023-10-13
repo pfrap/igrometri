@@ -88,4 +88,9 @@ Ho utilizzato principalmente dati ottenuti tramite *moving average*, essendo inf
 ### Calendar heatmap
 Con [Tableau](https://public.tableau.com/views/sensor-project/TempCdashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link) ho impostato una calendar heatmap delle varie stanze per vedere la distribuzione delle temperature medie nelle varie stanze durante l'anno.
 
+#### Media mensile
+
+![Heatpmap](grafici/Temperature_calendar_heatmap_month.png)
+
+#### Media mensile per giorno
 ![Heatpmap](grafici/Temperature_calendar_heatmap.png)
