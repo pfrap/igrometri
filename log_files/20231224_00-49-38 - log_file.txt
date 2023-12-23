@@ -1,0 +1,14 @@
+20231224_00-49-38: Creo df_igrometri
+20231224_00-49-38: Cerco stanza Soggiorno
+20231224_00-49-38: df temperatura Soggiorno: (10509, 5)
+20231224_00-49-38: df stanza Soggiorno: (10509, 5)
+20231224_00-49-38: df temperatura Soggiorno: (13764, 4)
+20231224_00-49-38: df stanza Soggiorno: (13764, 4)
+20231224_00-49-38: df temperatura Soggiorno: (2311, 5)
+20231224_00-49-38: df stanza Soggiorno: (2311, 5)
+20231224_00-49-38: df temperatura Soggiorno: (13092, 4)
+20231224_00-49-38: df stanza Soggiorno: (13092, 4)
+20231224_00-49-38: df temperatura Soggiorno: (2890, 5)
+20231224_00-49-38: df stanza Soggiorno: (2890, 5)
+20231224_00-49-38: df temperatura Soggiorno: (13645, 5)
+20231224_00-49-38: df stanza Soggiorno: (13645, 5)

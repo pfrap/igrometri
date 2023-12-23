@@ -1,0 +1,3 @@
+20231224_00-20-49: Creo df_igrometri
+20231224_00-20-49: Cerco stanza Soggiorno
+20231224_00-20-49: df temperatura Soggiorno: (10509, 5)
