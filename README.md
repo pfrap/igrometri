@@ -24,7 +24,7 @@ Sintesi: **i dati non sono di qualità**, a tratti mancanti.
 L'app forniva appunto una scomodissima funzione di export in csv che potevi poi mandare alla email.
 Ho sviluppato una funzione di Estrazione Traduzione e Load dei dati in file di output csv; sfrutto librerie Pandas, Datetime e Glob per l'accesso ai dati su disco in base a parametri definiti.
 
-La funzione cicla sopra i file in cartella contenente csv ottenuti da igrometri, estrae i dati, concatena i dataframe, modifica nomi, tipi e ordine colonne ed esporta un csv."""
+La [funzione ETL](./etl_function.py) cicla sopra i file in cartella contenente csv ottenuti da igrometri, estrae i dati, concatena i dataframe, modifica nomi, tipi e ordine colonne ed esporta un csv.
 
 * Ho importato i csv su dataframe Pandas sfruttando libreria Glob
 * Ho modificato i dtypes per avere:
