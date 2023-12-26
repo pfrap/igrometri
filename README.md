@@ -6,18 +6,17 @@ Devo dire che per il prezzo funzionano bene, semplici da utilizzare ed esteticam
 Ne ho presi sei e li ho utilizzati per monitorare la temperatura ambientale in alcune stanze di casa mia.
 
 ## Business case
-Principalmente mi interessava sperimentare nell'implementazione di procedure ETL di Estrazione Traduzione e Load (Caricamento) di dati in repository finali.
+Principalmente mi interessava sperimentare nell'implementazione di procedure ETL di Estrazione Traduzione e Load.
 
 Secondariamente volevo vedere quanto potessero differire le temperature rilevate all'interno rispetto a quelle rilevate sui terrazzi.
 
 ## Preparazione dei dati
 Gli igrometri Oria rilevano temperatura (°C) e umidità relativa (%) ogni 10 minuti.
-Li ho utilizzati da Marzo ad Ottobre 2023, non senza problemi.
+Li ho utilizzati da Marzo a Dicembre 2023.
 
-Non era chiarissimo il funzionamento visto che le istruzioni erano in cinese, il trasferimento delle informazioni avviene tramite app sul telefono via bluetooth e la sincronizzazione non è molto ben studiata.
-I dati infatti vengono autodistrutti sui dispositivi dopo il 100 giorno e non mi è ancora chiarissimo come gestire questa cosa.
+Il funzionamento non era chiarissimo, le istruzioni erano in cinese e il trasferimento delle informazioni avviene tramite app sul telefono via bluetooth con una sincronizzazione non molto ben studiata.
 
-Sintesi: **i dati non sono di qualità**, a tratti mancanti.
+Sintesi: **i dati non sono di qualità**, a tratti mancanti per via di iniziali problemi con le batterie dei dispositivi.
 
 ## Execution
 ### ETL
