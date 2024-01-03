@@ -1,5 +1,5 @@
 # The sensor project
-L'anno scorso ho comprato dei meravigliosi igrometri di una non meglio identificata marca cinese, [Oria](https://www.amazon.it/gp/product/B08GKB5D1M/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1).
+L'anno scorso ho comprato degli igrometri di una non meglio identificata marca cinese, [Oria](https://www.amazon.it/gp/product/B08GKB5D1M/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1).
 
 Devo dire che per il prezzo funzionano bene, semplici da utilizzare ed esteticamente piacevoli.
 
